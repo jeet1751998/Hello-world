@@ -1,0 +1,5 @@
+<?php
+echo "welcome to php tutorials day 1";
+echo "welcome to day 2";
+
+?>
